@@ -85,5 +85,8 @@ endmodule
 ## RTL realization
 ![de3](https://user-images.githubusercontent.com/118834761/227829276-31280114-fce4-49fb-9dc4-e56b43c65baf.png)
 
+## TIMING DIAGRAM
+![image](https://github.com/AdhithyaMR/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/118834761/0132292f-3cf7-4bf3-81cb-21792adf7155)
+
 ## Result:
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
